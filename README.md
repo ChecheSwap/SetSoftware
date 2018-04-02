@@ -6,3 +6,5 @@ Sistema de punto de venta para sistemas operativos Microsoft Windows/ Point of s
 ![c](https://user-images.githubusercontent.com/21239660/38190053-c8427374-361f-11e8-9406-518e55912f24.png)
 ![d](https://user-images.githubusercontent.com/21239660/38190054-c870834a-361f-11e8-83e0-e740532908c5.png)
 ![e](https://user-images.githubusercontent.com/21239660/38190055-c8ad5392-361f-11e8-91c1-8a395ccb679a.png)
+
+Set Software / SET SOFTWARE / set software
